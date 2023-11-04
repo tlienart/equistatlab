@@ -9,7 +9,6 @@ on:
     # for user pages GitHub pages **requires** the deployment to be on the
     # master branch; also, at the end of the file, change to `BRANCH: master`
     branches:
-      - master
       - main
 jobs:
   build-and-deploy:
