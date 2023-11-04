@@ -18,7 +18,7 @@ jobs:
       with:
         python-version: '3.8'
     # NOTE: Here you can install dependencies such as matplotlib if you use
-    # packages such as PyPlot.
+    # packages such as PyPlot. If I were to need them.
     # - run: pip install matplotlib
     - name: Install Julia
       uses: julia-actions/setup-julia@v1
