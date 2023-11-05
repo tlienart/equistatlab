@@ -5,9 +5,9 @@
 
 Decision makers often have a strong interest in understanding the distributional effects of different practices, but existing analyses of these experiments often either fail to adequately consider these issues or lack a clear economic framework for evaluating them. The research program of the EquiStat Lab seeks to bridge this gap by developing a statistical framework for analyzing distributional impacts in interventions, building on modern welfare economic theory. This will provide a more comprehensive and rigorous approach to evaluation that brings both efficiency and distributional concerns to the analysis.
 
-**Principal Investigator**: [Eduardo Zambrano](https://eduardo-zambrano.github.io/)
+This material is based upon work supported by the [National Science Foundation](https://www.nsf.gov/) under [Grant # 2313969](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2313969). **Principal Investigator**: [Eduardo Zambrano](https://eduardo-zambrano.github.io/).
 
-The research program consist of three main research projects.
+The research program consist of three main research projects.[^a]
 
 ## Project 1: Protected income and inequality aversion
 The first component, written in collaboration with [Marc Fleurbaey](https://sites.google.com/site/marcfleurbaey/Home), involves developing a methodology for determining an evaluator's social preferences based on the tradeoffs between the well-being of different individuals that the evaluator considers acceptable. 
@@ -21,8 +21,8 @@ The third component involves applying this framework to the analysis of optimal 
 ## Stay tuned
 Through this website we plan to share code that will assist the interested reader with the following tasks: (i) conducting simulations to assess the effectiveness of the statistical and econometric tools we create, (ii) estimating egalitarian equivalent treatment effects and determining optimal treatment rules using both experimental and observational data, and (iii) visualizing the core theoretical results achieved throughout our research.
 
----
 
-This material is based upon work supported by the [National Science Foundation](https://www.nsf.gov/) under [Grant # 2313969](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2313969). Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author (s) and do not necessarily reflect the view of the National Science Foundation.
+### Disclaimer
+[^a]: Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author (s) and do not necessarily reflect the view of the National Science Foundation.
 
 ---
