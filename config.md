@@ -1,7 +1,7 @@
 <!--
 Add here global page variables to use throughout your website.
 -->
-+++
+<!-- +++ -->
 author = "Eduardo Zambrano"
 mintoclevel = 2
 
@@ -20,7 +20,7 @@ generate_rss = true
 website_title = "EquiStat Lab"
 website_descr = "Inequality Sensitive Treatment Effect Estimation"
 website_url   = "https://eduardo-zambrano.github.io/equistatlab/"
-+++
+<!-- +++ -->
 
 <!--
 Add here global latex commands to use throughout your pages.
