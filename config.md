@@ -1,26 +1,23 @@
 <!--
 Add here global page variables to use throughout your website.
 -->
-<!-- +++ -->
-author = "Eduardo Zambrano"
-mintoclevel = 2
 
-# uncomment and adjust the following line if the expected base URL of your website is something like [www.thebase.com/yourproject/]
-# please do read the docs on deployment to avoid common issues: https://franklinjl.org/workflow/deploy/#deploying_your_website
-prepath = "equistatlab"
+@def author = "Eduardo Zambrano"
 
-# Add here files or directories that should be ignored by Franklin, otherwise
-# these files might be copied and, if markdown, processed by Franklin which
-# you might not want. Indicate directories by ending the name with a `/`.
-# Base files such as LICENSE.md and README.md are ignored by default.
-ignore = ["node_modules/"]
+@def mintoclevel = 2
 
-# RSS (the website_{title, descr, url} must be defined to get RSS)
+@defprepath = "equistatlab"
+
+@def ignore = ["node_modules/"]
+
 generate_rss = true
-website_title = "EquiStat Lab"
-website_descr = "Inequality Sensitive Treatment Effect Estimation"
-website_url   = "https://eduardo-zambrano.github.io/equistatlab/"
-<!-- +++ -->
+
+@def website_title = "EquiStat Lab"
+
+@def website_descr = "Inequality Sensitive Treatment Effect Estimation."
+
+@def website_url   = "https://eduardo-zambrano.github.io/equistatlab/"
+
 
 <!--
 Add here global latex commands to use throughout your pages.
